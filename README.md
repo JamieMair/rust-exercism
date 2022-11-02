@@ -1,2 +1,3 @@
-# rust-exercism
-# rust-exercism
+# Rust Exercism
+
+Solutions to problems on Exercism for rust.
