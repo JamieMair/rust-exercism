@@ -17,6 +17,15 @@
 		},
 		{
 			"path": "health-statistics"
+		},
+		{
+			"path": "low-power-embedded-game"
+		},
+		{
+			"path": "role-playing-game"
+		},
+		{
+			"path": "magazine-cutout"
 		}
 	],
 	"settings": {}
