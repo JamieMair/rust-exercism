@@ -26,6 +26,12 @@
 		},
 		{
 			"path": "magazine-cutout"
+		},
+		{
+			"path": "short-fibonacci"
+		},
+		{
+			"path": "rpn-calculator"
 		}
 	],
 	"settings": {}
